@@ -44,7 +44,7 @@ self.__precacheManifest = [
     "url": "yemunnsoe.github.io/static/media/fastapi_sklearn.f7d742fc.png"
   },
   {
-    "revision": "265631d25684ce84fe37b4d112762cad",
+    "revision": "b1b151a80c96a00414ed73f4a6698176",
     "url": "yemunnsoe.github.io/index.html"
   }
 ];
