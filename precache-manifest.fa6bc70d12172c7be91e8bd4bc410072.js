@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "52ebf7346deab8998dd1",
+    "revision": "680da29888a49113ea68",
     "url": "/static/css/main.e331b353.chunk.css"
   },
   {
-    "revision": "52ebf7346deab8998dd1",
-    "url": "/static/js/main.52ebf734.chunk.js"
+    "revision": "680da29888a49113ea68",
+    "url": "/static/js/main.680da298.chunk.js"
   },
   {
     "revision": "aecb47be87bea160c595",
@@ -32,8 +32,8 @@ self.__precacheManifest = [
     "url": "/static/media/kafkaml.9c0f9867.png"
   },
   {
-    "revision": "8ba027d94d0cd4d31608e2c6e43f9488",
-    "url": "/static/media/scikit_pipes.8ba027d9.png"
+    "revision": "0dabac432f99fd6bc25bb335e1a95af7",
+    "url": "/static/media/cec.0dabac43.jpg"
   },
   {
     "revision": "4b632d51a45152af9b70077a3d4955ca",
@@ -44,7 +44,7 @@ self.__precacheManifest = [
     "url": "/static/media/fastapi_sklearn.f7d742fc.png"
   },
   {
-    "revision": "d225b86fa1e17733abd8ec7447b1a7ca",
+    "revision": "0c0ee2c927d4f876fa9ac7ed20a3922d",
     "url": "/index.html"
   }
 ];
